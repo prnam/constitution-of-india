@@ -25,7 +25,7 @@ nav:
       - General:
         - Article 12: articles/12.md
         - Article 13: articles/13.md
-      - Right to Equality:
+      - Right to equality:
         - Article 14: articles/14.md
         - Article 15: articles/15.md
         - Article 16: articles/16.md
@@ -33,3 +33,4 @@ nav:
         - Article 18: articles/18.md
       - Right to freedom:
         - Article 19: articles/19.md
+        - Article 20: articles/20.md

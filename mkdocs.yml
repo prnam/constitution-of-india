@@ -1,0 +1,10 @@
+site_name: Constitution of India
+theme:
+  name: material
+  palette:
+      primary: deep-orange
+      accent: green
+
+nav:
+  - Preamble: index.md
+

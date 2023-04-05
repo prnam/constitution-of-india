@@ -7,4 +7,8 @@ theme:
 
 nav:
   - Preamble: index.md
+  - Articles:
+    - Part 1 - The Union and its Territory:
+      - Article 1: articles/1.md
+
 
